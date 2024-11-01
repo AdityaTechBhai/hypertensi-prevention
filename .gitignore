@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-# Hide Firebase files that are not meant to be committed
-src/backend/firetokens.json
+# Ignore service account key file
+src/backend/token/firetokens.json
+
 venv
