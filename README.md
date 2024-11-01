@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite 🚀
 
 Welcome to the Hypertensi-Prevention project. This initiative aims to assist in preventing hypertension by offering tools and resources based on user behavior and algorithms, with data stored in Firestore. The system includes features such as monitoring vital signs, sending alerts for abnormal readings, providing educational materials, and offering community support.
@@ -62,3 +63,13 @@ Wanna report an issue or throw in some ideas? Feel free to slide in! 💅✨ We 
 ## License
 
 This project is licensed under the MIT License, so yeah, it’s free real estate. 🏠✨ Do what you want—but don’t come crying if the bugs start a whole rave in your code. 🐛💀 Fix it, break it, remix it, whatever—just don’t @ us! 😂
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 3d0e5ad (Initial alpha release with basic project structure and components)

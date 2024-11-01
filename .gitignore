@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Hide Firebase files that are not meant to be committed
+src/backend/firetokens.json
+venv
