@@ -51,7 +51,7 @@ Oh, and yeah, we cooked up a Chat AI—powered by GPT, ‘cause you deserve only
 - 🔍 Instant Brain Dump: Skip Google; this thing's like the Wikipedia deep dive you didn’t know you needed 💀💀.
 - 🧠 Smarter Than Your Ex, FR: Comes with IQ, EQ, and zero chill—won't ghost you either 💀🧠.
 No Stupid Questions (Deadass): Toss it whatever, from your deepest fears to snack recs. It’s gotchu 💀.
-More upgrades coming... if we don’t catch a nap first 😭💀
+- More upgrades coming... if we don’t catch a nap first 😭💀
 
 Stay tuned for more wild updates as we keep leveling up this feature! 🚀💀 If we’re not too busy scrolling through TikTok, that is 😭💅. Buckle up, it’s about to get chaotic! ✌️✨
 
