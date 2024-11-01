@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hypertensi-prevention",
+  "private_key_id": "4a271e2e54f8460faa27cb7762e6d27d7dd9d81e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCK8pp7nLlxkanb\nyxN/w/fOqzFiMNmNZanf950jelUhbQpRjtZkqBl+v1Ewn5d21dnia8nFkGOaVk3d\nrlZrcIobtp/Qrb24U8cw+80bDSoQttObpNKueXOKZljtTRbiH82oIwyiSAqjTfLO\nR3PZei609orTSy8bhhdMe8Or7sM+gnu1r5iYDWWi+CEyehFOTDWdgedAT7fqumV9\nvmH6L6W663ucrZ0aKouD6jqSoc+p9q6MuDZbZlmGP8eIaIvcFsqGkAK36+AAi0W5\nxZN2q3i+zJizoY4b/nAXil8Cpm8E3212WCKUYepHuABsZFvu7khYdpu1UlUERO4x\ndnN+kgQ/AgMBAAECggEAPjE0wFt4DcNbOgv9oFSA2Lp7ki23UrjMfnkAlt6suBds\nZPEAOXGcZ8UOfCsSypgRvGzulUV5r50toSnleJWY26q0gd0ibBzjraMnPRJ5X53V\nvXba7kliU/JXn2+/7Fq73KRDhWeli07afUYyLoen3Ev1+3lNjo5IY22KOazXK2Tn\nTvL1TGSvmhIGzEkt1o96x/XuDigyFp15V5sh1A3sNqJpffAMePEQMAzRLRc/dg5j\ndSlGJQUgcq3WuZZT66lOuN262Manto1qfr+k4N9JkwO2cIt4k5hd84PCPvAXQ7Ji\nyPEacWstHynqlLar7kccTsHyfsAjViOKfJjHA2dXEQKBgQC+Ft41u+rTCYlHrvfv\nsqRZg38pogJkdwb7E4QParKY6qfFiWMHn8qSgRN0EFQra4doE/rrIq9i3uw/ZWG7\n1hPGMKEnqqPiuPbtIP8LNpqqI3/xlGV/oKqjOf9FEeGw0g/2UA6dBXmDlty6x5z9\ntSSys4yLunBef5UAp69OicYS3QKBgQC7IC+MlLryicemF09tB5kd5CQYbnm6KZye\n9cCMwn3eOTpxJVfLCUI0GeMa1K7kKsPhOVtmSlURXDN9vTmOXG8bbQ5LCIVEQU23\nqwgGAL2U73ysh9IVKEorZepH6J1P8UXsKwSro31VKfY5NfgKxOfGbgBXJuWBYY/T\nAbY3nPbbywKBgQCDkPBb4KS3THJn2wJgNRTrn8fz2N4vCvMZ9HgC86aJkGBuqJiS\nPlbG7++29VZMdzBRKQMSm/8oP4Lknhb3G0S0eBQSkFi+I6dEmQHtkO2btNZpLnzR\nyTJRp2K3O5kp+TpzERYMOC3SlihQXriaITY1OXCdhX0g6s0GlwkPIuylQQKBgQCZ\n4b/4dZ6/MTqzhVvVp3ftMt3UEZWc1/dqaWIs3wwvIRTEUxc9aqG8wsUWHWytSdXH\ncymMlvgZzJ6zelbIkY71GNu2LI2bMbC9p7JzbUx6G++E2jSTHYzQ34CoHcywHxOH\nQWEX3NyGmnlXVuBhysdnULKK+PunSBnERhYY6cW/vQKBgE0oulEfvZs+LePhyZdr\n/i7pyrm6+WsRiowDvxZVKC4PDUfp39Ajs56ZIJz8EF7i18PrMYzF3u6vKvMTbtH7\nnynfz+MrZcxYg9RgV5CiZt6Up9HWOeUEvM+hlu/AYHcji8gF9Jz5eqtQdPiju8g9\nwavf43nI3WCxhgpVb/Y4LdhG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lj7ti@hypertensi-prevention.iam.gserviceaccount.com",
+  "client_id": "115737736386178743476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lj7ti%40hypertensi-prevention.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

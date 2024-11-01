@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .custom-gradient {
+    background: radial-gradient(26.52% 110.45% at 40.95% -10.45%, #FFFFFF 32.81%, #F8FDFF 97.64%);
+  }
+  .bg-gyaat{
+    background: linear-gradient(101.91deg, #a7e2ff 0%, #0095de 87.74%);
+  }
+}
+
+:root {
+  font-family: Archivo, Inter, system-ui, sans-serif;
+}
