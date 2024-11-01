@@ -121,9 +121,7 @@ app.post('/submit', async (req, res) => {
       localTime,
       ipBasedTime: ipBasedTime.toString(),
     });
-
-    console.log('Received form data:', { email, phone: fullPhoneNumber, region, date, userAgent, ipAddress, dnsInfo, localTime, ipBasedTime });
-
+    console.log('Form submitted successfully');
     res.status(200).json({ message: 'Form submitted successfully' });
   } catch (error) {
     console.error('Error saving to Firestore:', error);
